@@ -1,1 +1,3 @@
 # Compile.IO
+
+Compile.IO is an attempt to rewrite the way code is written. Instead of writing the code in languages like java/javascript, covering  every transaction that takes place in the code, Compile.IO defines a structure to write the code in human understandable json/yaml files. Then a compiler can be written in a native language like java/javascript, which is able to decipher the Compile.IO structure, and transform the Compile.IO files in to a working application. 
